@@ -13,7 +13,7 @@ This project generates a mini research brief for a given topic using AI-powered 
   - References
 - Includes **sample inputs and outputs** in the `samples/` folder.
 
-## 📂 Project Structure
+## Project Structure
 ```
 ├── mini_research_brief.py   # Main script
 ├── README.md                # Documentation
@@ -21,7 +21,7 @@ This project generates a mini research brief for a given topic using AI-powered 
 └── samples/                 # Folder with sample inputs & outputs
 ```
 
-## ✅ Requirements
+##  Requirements
 - Python 3.8 or above
 - Google Gemini API Key
 - LangChain & Google Generative AI SDK
@@ -31,7 +31,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## ▶️ Run in Google Colab
+## Run in Google Colab
 1. Open [Google Colab](https://colab.research.google.com/).
 2. Upload `mini_research_brief.py` and `requirements.txt`.
 3. Install dependencies:
