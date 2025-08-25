@@ -3,7 +3,7 @@
 
 This project generates a mini research brief for a given topic using AI-powered summarization. It fetches research content and provides structured summaries in JSON format.
 
-## 🚀 Features
+## Features
 - Accepts a research topic as input.
 - Uses LangChain + Google Gemini API for text generation.
 - Outputs structured JSON containing:
@@ -48,8 +48,7 @@ pip install -r requirements.txt
    !python mini_research_brief.py
    ```
 
-## 🧪 Sample Inputs & Outputs
+## Sample Inputs & Outputs
 Samples are available in the `samples/` folder.
 
-## 📜 License
-This project is for educational purposes only.
+
