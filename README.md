@@ -1,5 +1,5 @@
 
-# Mini Research Brief Generator
+# Mini Research Brief 
 
 This project generates a mini research brief for a given topic using AI-powered summarization. It fetches research content and provides structured summaries in JSON format.
 
